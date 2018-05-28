@@ -12,7 +12,6 @@ client.on('message', msg => {
   }
 });
 
-
 const Eris = require("eris");
 var x5bzteam = new Eris("Mjk0NTQ0MzI4OTQzMjA2NDIw.DeoN8w.g-1iZsY_9tWo3D93vMW88qPnZbE");
 x5bzteam.on("ready", () => {
@@ -42,9 +41,5 @@ var x5bz2 = ' ';
      }, 1000);
 }
 x5bzteam.connect();
-
-
-
-
 
 client.login('NDUwNjc0OTU0OTQyNTQ1OTIx.De2rWQ.VRSMEmaTZlt6g9JPDvondRe1fnU');
